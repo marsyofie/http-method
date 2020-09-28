@@ -22,6 +22,6 @@
 
 ### Documentation
 [Collection Postman][1]
-[1]: https://www.getpostman.com/collections/1173fa17af3e477c07cc "Collection Postman"
+[1]: https://documenter.getpostman.com/view/3056736/TVKJwZzF "Collection Postman"
 [Difference PUT and PATCH method][2]
 [2]: https://devqa.io/difference-put-patch-requests/ "Difference PUT and PATCH method"
