@@ -1,0 +1,116 @@
+{
+    "OK":
+    {
+        "error": false,
+        "code": "00",
+        "name": "OK",
+        "status": 200,
+        "from": "",
+        "info":
+        {},
+        "message": "Ok."
+    },
+    "FOUND":
+    {
+        "error": false,
+        "code": "00",
+        "name": "FOUND",
+        "status": 200,
+        "from": "",
+        "info":
+        {},
+        "message": "Data ditemukan."
+    },
+    "DELETE_OK":
+    {
+        "error": false,
+        "code": "00",
+        "name": "DELETE_OK",
+        "status": 200,
+        "from": "",
+        "info":
+        {},
+        "message": "Delete Sukses!"
+    },
+    "UPDATE_OK":
+    {
+        "error": false,
+        "code": "00",
+        "name": "UPDATE_OK",
+        "status": 200,
+        "from": "",
+        "info":
+        {},
+        "message": "Update Sukses!"
+    },
+
+
+
+    "GENERAL_ERR":
+    {
+        "error": true,
+        "code": "01",
+        "name": "GENERAL_ERR",
+        "status": 500,
+        "from": "",
+        "info":
+        {},
+        "message": "Something went wrong!"
+    },
+    "SERVICE_NOT_FOUND":
+    {
+        "error": true,
+        "code": "02",
+        "name": "SERVICE_NOT_FOUND",
+        "status": 404,
+        "from": "",
+        "info":
+        {},
+        "message": "Service not found!"
+    },
+    "ERR_DATABASE":
+    {
+        "error": true,
+        "code": "03",
+        "name": "ERR_DATABASE",
+        "status": 500,
+        "from": "",
+        "info":
+        {},
+        "message": "Database problems!"
+    },
+    "INVALID_REQUEST":
+    {
+        "error": true,
+        "code": "04",
+        "name": "INVALID_REQUEST",
+        "status": 400,
+        "from": "",
+        "info":
+        {},
+        "message": "Invalid request!"
+    },
+    "MISSING_KEY":
+    {
+        "error": true,
+        "code": "05",
+        "name": "MISSING_KEY",
+        "status": 400,
+        "from": "",
+        "info":
+        {},
+        "message": "Missing key!"
+    },
+
+    "NOT_FOUND":
+    {
+        "error": true,
+        "code": "06",
+        "name": "NOT_FOUND",
+        "status": 404,
+        "from": "",
+        "info":
+        {},
+        "message": "Tidak ditemukan!"
+    }
+}
