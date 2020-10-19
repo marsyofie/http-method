@@ -4,7 +4,7 @@
 - HTTP method get, post, put, patch and delete
 - Unit test with mocha and chai
 
-###How to deploy
+### How to deploy
 - change app.json
 > {
 	"env": "development"
